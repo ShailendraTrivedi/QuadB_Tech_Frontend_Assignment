@@ -1,0 +1,63 @@
+[
+    {
+      "task": "Draft and finalize project proposal document",
+      "status": "Not Started",
+      "priority": "High",
+      "category": "Work"
+    },
+    {
+      "task": "Create slides for project presentation",
+      "status": "In Progress",
+      "priority": "High",
+      "category": "Work"
+    },
+    {
+      "task": "Purchase groceries for the week",
+      "status": "Not Started",
+      "priority": "Medium",
+      "category": "Personal"
+    },
+    {
+      "task": "Discuss project requirements with the client",
+      "status": "Not Started",
+      "priority": "High",
+      "category": "Work"
+    },
+    {
+      "task": "Review and provide feedback on colleague's code",
+      "status": "Completed",
+      "priority": "Medium",
+      "category": "Work"
+    },
+    {
+      "task": "Settle electricity and internet bills",
+      "status": "Not Started",
+      "priority": "High",
+      "category": "Personal"
+    },
+    {
+      "task": "Go for a run in the morning",
+      "status": "In Progress",
+      "priority": "Medium",
+      "category": "Health"
+    },
+    {
+      "task": "Read a chapter of 'The Great Gatsby'",
+      "status": "Not Started",
+      "priority": "Low",
+      "category": "Personal"
+    },
+    {
+      "task": "Draft a new blog post on React development",
+      "status": "In Progress",
+      "priority": "High",
+      "category": "Work"
+    },
+    {
+      "task": "Research and plan a weekend getaway",
+      "status": "Not Started",
+      "priority": "Low",
+      "category": "Personal"
+    }
+  ]
+  
